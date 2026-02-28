@@ -4,7 +4,7 @@
   <label for="mname">Middle name:</label><br>
   <input type="text" id="mname" name="mname"><br>
   <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname">
+  <input type="text" id="lname" name="lname"><br>
   <label for="email">Email:</label><br>
-  <input type="text" id="email" name="email">
+  <input type="text" id="email" name="email"><br>
 </form>
